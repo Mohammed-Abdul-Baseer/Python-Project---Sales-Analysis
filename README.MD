@@ -1,5 +1,3 @@
-
-```markdown
 # Sales Analysis - Python
 
 ## Objectives
@@ -48,5 +46,5 @@ The methodology for this project encompasses several key steps:
    - Prepare a README file for GitHub that outlines the objectives, methodology, insights derived from the analysis, and instructions for running the code.
 
 This structured approach ensures that the project meets its objectives while providing valuable insights into sales performance. By publishing this project on GitHub, it serves as a demonstrable example of technical skills in data analysis using Python.
-```
+
 
